@@ -414,7 +414,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of domain" id="3Sp2jgXLUWvpG2HZxSBy">
-    <mxGraphModel dx="899" dy="576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="703" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="1F0GdTbv5qJZqQVcmy5M-0" />
         <mxCell id="1F0GdTbv5qJZqQVcmy5M-1" parent="1F0GdTbv5qJZqQVcmy5M-0" />
@@ -613,7 +613,7 @@
         <mxCell id="q-F_c7N_tszNeowOZ41c-49" value="healthy eating" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1F0GdTbv5qJZqQVcmy5M-1">
           <mxGeometry x="1050" y="752.5" width="65" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="q-F_c7N_tszNeowOZ41c-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1F0GdTbv5qJZqQVcmy5M-1" source="q-F_c7N_tszNeowOZ41c-50" target="1F0GdTbv5qJZqQVcmy5M-3">
+        <mxCell id="q-F_c7N_tszNeowOZ41c-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1F0GdTbv5qJZqQVcmy5M-1" source="q-F_c7N_tszNeowOZ41c-50" target="q-F_c7N_tszNeowOZ41c-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="q-F_c7N_tszNeowOZ41c-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1F0GdTbv5qJZqQVcmy5M-1" source="q-F_c7N_tszNeowOZ41c-50" target="q-F_c7N_tszNeowOZ41c-49">
