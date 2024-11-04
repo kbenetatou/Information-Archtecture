@@ -1100,16 +1100,16 @@
         <mxCell id="BE7XYD_fzrqthYWHUcCX-27" value="Pescatarian" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="655" y="170" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-33" value="&lt;b&gt;Level of expertise&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="BE7XYD_fzrqthYWHUcCX-33" value="&lt;b&gt;Level of expertise&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="800" y="25" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-34" value="Intermediate&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="BE7XYD_fzrqthYWHUcCX-34" value="Intermediate&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;align=center;fontColor=#333333;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="805" y="70" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-35" value="Moderate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="BE7XYD_fzrqthYWHUcCX-35" value="Moderate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;align=center;fontColor=#333333;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="805" y="120" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-36" value="Hard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="BE7XYD_fzrqthYWHUcCX-36" value="Hard" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;align=center;fontColor=#333333;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="805" y="170" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BE7XYD_fzrqthYWHUcCX-37" value="I have decided not to include a facet with &quot;Occasions&quot; (i.e. Christmas, Thanksgiving, Halloween, etc),&lt;div&gt;as it is completely okay to let oneself loose during holidays and that applies to diet plans as well.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
