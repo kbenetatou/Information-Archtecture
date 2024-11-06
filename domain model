@@ -396,7 +396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="5420" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4254" dy="518" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -810,45 +810,45 @@
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="695" y="1614.8400000000001" as="sourcePoint" />
-            <mxPoint x="735" y="1614.8400000000001" as="targetPoint" />
+            <mxPoint x="700" y="1619.2900000000002" as="sourcePoint" />
+            <mxPoint x="740" y="1619.2900000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-112" value="Mindful eating" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="735" y="1595" width="90" height="40" as="geometry" />
+          <mxGeometry x="740" y="1600" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-122" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="775" y="1790" as="sourcePoint" />
-            <mxPoint x="775.33" y="1640" as="targetPoint" />
+            <mxPoint x="785" y="1795" as="sourcePoint" />
+            <mxPoint x="785.33" y="1645" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-123" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="777.5" y="1669.7" as="sourcePoint" />
-            <mxPoint x="817.5" y="1669.7" as="targetPoint" />
+            <mxPoint x="787.5" y="1674.7" as="sourcePoint" />
+            <mxPoint x="827.5" y="1674.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-124" value="What is mindful eating?" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="817.5" y="1650" width="90" height="40" as="geometry" />
+          <mxGeometry x="827.5" y="1655" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="775" y="1729.8600000000001" as="sourcePoint" />
-            <mxPoint x="815" y="1729.8600000000001" as="targetPoint" />
+            <mxPoint x="785" y="1734.8600000000001" as="sourcePoint" />
+            <mxPoint x="825" y="1734.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-126" value="How it helps" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="817.5" y="1710" width="90" height="40" as="geometry" />
+          <mxGeometry x="827.5" y="1715" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-127" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="775" y="1789.8600000000001" as="sourcePoint" />
-            <mxPoint x="815" y="1789.8600000000001" as="targetPoint" />
+            <mxPoint x="785" y="1794.8600000000001" as="sourcePoint" />
+            <mxPoint x="825" y="1794.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-128" value="How to practice it" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="817.5" y="1780" width="90" height="40" as="geometry" />
+          <mxGeometry x="827.5" y="1785" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-129" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -859,20 +859,14 @@
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-130" value="Importance of mental health" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="650" y="1830" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-131" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="693" y="1900" as="sourcePoint" />
-            <mxPoint x="692.83" y="1870" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-134" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="692.5" y="1899.8600000000001" as="sourcePoint" />
-            <mxPoint x="732.5" y="1899.8600000000001" as="targetPoint" />
+            <mxPoint x="692.5" y="1959.8600000000001" as="sourcePoint" />
+            <mxPoint x="732.5" y="1959.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-135" value="Find a therapist" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
-          <mxGeometry x="735" y="1880" width="90" height="40" as="geometry" />
+          <mxGeometry x="735" y="1940" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eTekZsoh7tUfqU-lsg8H-1" value="Sort by" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="365" y="310" width="125" height="120" as="geometry">
@@ -1548,6 +1542,21 @@
         </mxCell>
         <mxCell id="KAhYHA1E7FXvK9-r_e9r-10" value="Page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="KAhYHA1E7FXvK9-r_e9r-1">
           <mxGeometry x="85" y="75" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KAhYHA1E7FXvK9-r_e9r-12" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="693" y="1960" as="sourcePoint" />
+            <mxPoint x="692.83" y="1870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAhYHA1E7FXvK9-r_e9r-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="695" y="1899.7" as="sourcePoint" />
+            <mxPoint x="735" y="1899.7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KAhYHA1E7FXvK9-r_e9r-14" value="Mental health &amp;amp; diet" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="735" y="1880" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
