@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="5035" dy="1100" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="4254" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -590,7 +590,7 @@
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="609" y="1850" as="sourcePoint" />
+            <mxPoint x="609" y="1450" as="sourcePoint" />
             <mxPoint x="609.3899999999999" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -599,8 +599,8 @@
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="612.5" y="1449.7" as="sourcePoint" />
-            <mxPoint x="652.5" y="1449.7" as="targetPoint" />
+            <mxPoint x="610" y="1449.5" as="sourcePoint" />
+            <mxPoint x="650" y="1449.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
@@ -1014,9 +1014,6 @@
         </mxCell>
         <mxCell id="BE7XYD_fzrqthYWHUcCX-36" value="Advanced" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;dashed=1;align=center;fontColor=#333333;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="805" y="170" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-37" value="I have decided not to include a facet with &quot;Occasions&quot; (i.e. Christmas, Thanksgiving, Halloween, etc),&lt;div&gt;as it is completely okay to let oneself loose during holidays and that applies to diet plans as well.&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry y="525" width="560" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PPbOZ_LyK796MHS_iBA5-1" value="&lt;b&gt;Health goal&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="960" y="25" width="90" height="30" as="geometry" />
