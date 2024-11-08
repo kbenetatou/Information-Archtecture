@@ -444,11 +444,12 @@
         <mxCell id="LfXhhraeiLGiQlUluwER-6" value="Create an account" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1290" y="20" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LfXhhraeiLGiQlUluwER-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="LfXhhraeiLGiQlUluwER-7" target="LfXhhraeiLGiQlUluwER-9" edge="1">
+        <mxCell id="LfXhhraeiLGiQlUluwER-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="LfXhhraeiLGiQlUluwER-7" target="LfXhhraeiLGiQlUluwER-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1465" y="80" />
-              <mxPoint x="1250" y="80" />
+              <mxPoint x="1350" y="80" />
+              <mxPoint x="1350" y="110" />
             </Array>
           </mxGeometry>
         </mxCell>
