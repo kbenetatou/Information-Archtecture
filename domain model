@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="578" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -427,7 +427,7 @@
         <mxCell id="LfXhhraeiLGiQlUluwER-3" value="Recipes" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1340" y="150" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LfXhhraeiLGiQlUluwER-4" value="Healhty eating" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
+        <mxCell id="LfXhhraeiLGiQlUluwER-4" value="Healthy eating" style="html=1;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1810" y="150" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LfXhhraeiLGiQlUluwER-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="LfXhhraeiLGiQlUluwER-5" edge="1">
@@ -590,29 +590,14 @@
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-73" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1839" y="1490" as="sourcePoint" />
+            <mxPoint x="1839" y="1630" as="sourcePoint" />
             <mxPoint x="1839.3899999999999" y="200" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-74" value="Beyond the recipes" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1882.5" y="1470" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1840" y="1489.5" as="sourcePoint" />
-            <mxPoint x="1880" y="1489.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-76" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1930" y="1660" as="sourcePoint" />
-            <mxPoint x="1930.33" y="1510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-77" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1930" y="1536.63" as="sourcePoint" />
-            <mxPoint x="1970" y="1536.63" as="targetPoint" />
+            <mxPoint x="1837.5" y="1506.63" as="sourcePoint" />
+            <mxPoint x="1877.5" y="1506.63" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-78" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="tX5MuTdD_eDaAt5PgCKJ-69" edge="1">
@@ -727,58 +712,58 @@
           <mxGeometry y="10" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-106" value="Balanced diet" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1972.5" y="1520" width="90" height="40" as="geometry" />
+          <mxGeometry x="1880" y="1490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-107" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1930" y="1599.8600000000001" as="sourcePoint" />
-            <mxPoint x="1970" y="1599.8600000000001" as="targetPoint" />
+            <mxPoint x="1837.5" y="1569.8600000000001" as="sourcePoint" />
+            <mxPoint x="1877.5" y="1569.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-108" value="Hydration" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1972.5" y="1580" width="90" height="40" as="geometry" />
+          <mxGeometry x="1880" y="1550" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1930" y="1659.2900000000002" as="sourcePoint" />
-            <mxPoint x="1970" y="1659.2900000000002" as="targetPoint" />
+            <mxPoint x="1837.5" y="1629.2900000000002" as="sourcePoint" />
+            <mxPoint x="1877.5" y="1629.2900000000002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-112" value="Mindful eating" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="1970" y="1640" width="90" height="40" as="geometry" />
+          <mxGeometry x="1877.5" y="1610" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-122" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2015" y="1835" as="sourcePoint" />
-            <mxPoint x="2015.33" y="1685" as="targetPoint" />
+            <mxPoint x="1922.5" y="1805" as="sourcePoint" />
+            <mxPoint x="1922.83" y="1655" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-123" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2017.5" y="1714.7" as="sourcePoint" />
-            <mxPoint x="2057.5" y="1714.7" as="targetPoint" />
+            <mxPoint x="1925" y="1684.7" as="sourcePoint" />
+            <mxPoint x="1965" y="1684.7" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-124" value="What is mindful eating?" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="2057.5" y="1695" width="90" height="40" as="geometry" />
+          <mxGeometry x="1965" y="1665" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2015" y="1774.8600000000001" as="sourcePoint" />
-            <mxPoint x="2055" y="1774.8600000000001" as="targetPoint" />
+            <mxPoint x="1922.5" y="1744.8600000000001" as="sourcePoint" />
+            <mxPoint x="1962.5" y="1744.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-126" value="How it helps" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="2057.5" y="1755" width="90" height="40" as="geometry" />
+          <mxGeometry x="1965" y="1725" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-127" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2015" y="1834.8600000000001" as="sourcePoint" />
-            <mxPoint x="2055" y="1834.8600000000001" as="targetPoint" />
+            <mxPoint x="1922.5" y="1804.8600000000001" as="sourcePoint" />
+            <mxPoint x="1962.5" y="1804.8600000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-128" value="How to practice it" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="2057.5" y="1825" width="90" height="40" as="geometry" />
+          <mxGeometry x="1965" y="1795" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-129" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
