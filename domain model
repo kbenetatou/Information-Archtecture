@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="2">
   <diagram name="Copy of domain" id="3Sp2jgXLUWvpG2HZxSBy">
     <mxGraphModel dx="326" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="1363" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="1036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1065,30 +1065,6 @@
         </mxCell>
         <mxCell id="ISZDVKLtoT2exKS5YzWV-6" value="Minimal ingredients" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="510" y="375" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-107" value="" style="endArrow=none;html=1;rounded=0;entryX=0.441;entryY=0.992;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1600" y="1180" as="sourcePoint" />
-            <mxPoint x="1600.23" y="1160" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-108" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1600" y="1180.0000000000002" as="sourcePoint" />
-            <mxPoint x="1650" y="1180.0000000000002" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-110" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1640" y="1160" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="DvSRFYLKsYrS-0uo456e-16" value="" style="group" parent="BE7XYD_fzrqthYWHUcCX-110" vertex="1" connectable="0">
-          <mxGeometry x="7.141428571428584" width="95.71571428571426" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-112" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.layered_rect;dx=10;outlineConnect=0;whiteSpace=wrap;" parent="DvSRFYLKsYrS-0uo456e-16" vertex="1">
-          <mxGeometry x="10.00142857142857" width="85.7142857142857" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-113" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;e.g. Cookies&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="DvSRFYLKsYrS-0uo456e-16" vertex="1">
-          <mxGeometry y="0.0033333333333338544" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BE7XYD_fzrqthYWHUcCX-122" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
