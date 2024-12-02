@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.1" pages="3">
   <diagram name="Copy of domain" id="3Sp2jgXLUWvpG2HZxSBy">
     <mxGraphModel dx="326" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
@@ -1556,6 +1556,47 @@
         </mxCell>
         <mxCell id="RhSTbF7wa1phSG2pfjIN-30" value="i.e. Keto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="RhSTbF7wa1phSG2pfjIN-32" vertex="1">
           <mxGeometry x="5" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="5jG6EdRZhkgV9FbJhpV7" name="user journey">
+    <mxGraphModel dx="1468" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0DrAQRGYRBni3S8kfPUL-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Task&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-size: 10pt; line-height: 15.3333px; font-family: Arial, sans-serif;&quot; lang=&quot;EN-US&quot;&gt;you want to incorporate healthier meals into your routine. You&#39;re not following a specific diet but are curious about trying new recipes that are quick, nutritious, and aligned with your interest in maintaining energy and focus throughout the day. You are also curious about the relationship between nutrition and mental health.&lt;/span&gt;&lt;span style=&quot;font-size: medium;&quot;&gt;&lt;/span&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="490" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWuJOutuyYZcTLfAimd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0DrAQRGYRBni3S8kfPUL-2" target="7JWuJOutuyYZcTLfAimd-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0DrAQRGYRBni3S8kfPUL-2" value="Start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="40" y="262.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWuJOutuyYZcTLfAimd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7JWuJOutuyYZcTLfAimd-1" target="7JWuJOutuyYZcTLfAimd-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWuJOutuyYZcTLfAimd-1" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Browse recipes or&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;search with&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp;keywords?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="220" width="120" height="115" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWuJOutuyYZcTLfAimd-4" value="Keyword search" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="530" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWuJOutuyYZcTLfAimd-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Type in keywords&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;inside the search box&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="7JWuJOutuyYZcTLfAimd-4">
+          <mxGeometry x="10" y="40" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="7JWuJOutuyYZcTLfAimd-7" value="Cousine" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="150" width="110" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvA3hxWirTM-uhnC1F4-1" value="Meal" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="270" width="110" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvA3hxWirTM-uhnC1F4-2" value="Diet" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="400" width="110" height="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="GXvA3hxWirTM-uhnC1F4-3" value="Top Picks" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="547.5" width="110" height="82.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
