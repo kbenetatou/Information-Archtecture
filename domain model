@@ -417,7 +417,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="3180" dy="1737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1908" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1600,7 +1600,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5jG6EdRZhkgV9FbJhpV7" name="user journey">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1682,7 +1682,7 @@
         <mxCell id="CpknKq-aniQJfoje_9_e-17" value="clicks on" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="630" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="CpknKq-aniQJfoje_9_e-18" value="Search through&amp;nbsp;&lt;div&gt;recipe search bar&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="CpknKq-aniQJfoje_9_e-18" value="Search through&amp;nbsp;&lt;div&gt;recipes&#39; search bar&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="590" y="790" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CpknKq-aniQJfoje_9_e-19" value="Keyword filter" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
