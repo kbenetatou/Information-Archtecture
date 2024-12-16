@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="1193" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="615" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -759,16 +759,10 @@
             <mxPoint x="2800" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1jZ5EXJbjpcVy_xMVcnm-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.54;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2214.7" y="150.00000000000003" as="sourcePoint" />
-            <mxPoint x="2215" y="130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="1jZ5EXJbjpcVy_xMVcnm-11" value="" style="endArrow=none;html=1;rounded=0;exitX=0.54;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2279.2899999999995" y="172.50000000000003" as="sourcePoint" />
-            <mxPoint x="2279.59" y="152.5" as="targetPoint" />
+            <mxPoint x="2280" y="130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="1jZ5EXJbjpcVy_xMVcnm-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.54;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
