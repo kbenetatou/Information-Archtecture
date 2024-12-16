@@ -398,7 +398,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="1363" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2726" dy="1729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -779,12 +779,6 @@
         </mxCell>
         <mxCell id="BE7XYD_fzrqthYWHUcCX-30" value="Search with keywords" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="1325" y="220" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="BE7XYD_fzrqthYWHUcCX-31" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.689;exitY=0.007;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="BE7XYD_fzrqthYWHUcCX-1" target="BE7XYD_fzrqthYWHUcCX-30" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080" y="620" as="sourcePoint" />
-            <mxPoint x="1340" y="255" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="BE7XYD_fzrqthYWHUcCX-42" value="" style="endArrow=classic;html=1;rounded=0;endFill=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1258,9 +1252,6 @@
         <mxCell id="Xkk5nNXTZqmTfp_ZaK6a-15" value="i.e. how to avoid emotional eating" style="html=1;whiteSpace=wrap;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="2030" y="470" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="RhSTbF7wa1phSG2pfjIN-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="510" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="RhSTbF7wa1phSG2pfjIN-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2067.5" y="632.5" as="sourcePoint" />
@@ -1542,52 +1533,52 @@
             <mxPoint x="963" y="1200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-5" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-5" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="1437.5" y="600" width="342.5" height="710" as="geometry" />
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="jCRez3teVPkLSLlHTSgs-5">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-1" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="jCRez3teVPkLSLlHTSgs-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2.5" y="710" as="sourcePoint" />
             <mxPoint x="2.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="jCRez3teVPkLSLlHTSgs-5">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="jCRez3teVPkLSLlHTSgs-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="342.5" y="705" as="sourcePoint" />
             <mxPoint x="342.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="jCRez3teVPkLSLlHTSgs-5">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="jCRez3teVPkLSLlHTSgs-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="342.5" as="sourcePoint" />
             <mxPoint x="2.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="jCRez3teVPkLSLlHTSgs-5">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-4" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" parent="jCRez3teVPkLSLlHTSgs-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="340" y="705" as="sourcePoint" />
             <mxPoint y="705" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-6" value="Pricey &amp;amp; time-consuming" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-6" value="Pricey &amp;amp; time-consuming" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2487.5" y="560" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-7" value="Carbs" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-7" value="Carbs" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2485" y="642.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-8" value="Fat" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-8" value="Fat" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2485" y="715" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-9" value="Low calories" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-9" value="Low calories" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2485" y="777.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-10" value="Keto" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-10" value="Keto" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2499.29" y="1300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-11" value="Fasting" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-11" value="Fasting" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2499.29" y="1372.5" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="jCRez3teVPkLSLlHTSgs-12" value="Vegetarian &amp;amp; Vegan" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="jCRez3teVPkLSLlHTSgs-12" value="Vegetarian &amp;amp; Vegan" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="2499.29" y="1445" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
