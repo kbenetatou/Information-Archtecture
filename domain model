@@ -891,23 +891,20 @@
         <mxCell id="KGGn6EUFKWHY_q-_bmdc-1" value="&lt;b&gt;Allergies / Intolerance&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="645" y="235" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KGGn6EUFKWHY_q-_bmdc-2" value="Nuts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="KGGn6EUFKWHY_q-_bmdc-2" value="Nut free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="665" y="275" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KGGn6EUFKWHY_q-_bmdc-3" value="Lactose intolerance&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="KGGn6EUFKWHY_q-_bmdc-3" value="Diary free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="665" y="325" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KGGn6EUFKWHY_q-_bmdc-4" value="Gluten intolerance&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="KGGn6EUFKWHY_q-_bmdc-4" value="Gluten free&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="665" y="375" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KGGn6EUFKWHY_q-_bmdc-5" value="Soy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="KGGn6EUFKWHY_q-_bmdc-5" value="Soy free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="665" y="425" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KGGn6EUFKWHY_q-_bmdc-6" value="Fish" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
+        <mxCell id="KGGn6EUFKWHY_q-_bmdc-6" value="Fish free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="665" y="475" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KGGn6EUFKWHY_q-_bmdc-7" value="Other" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry x="665" y="525" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UmCv5x-CEF8rxxbTKIyS-1" value="&lt;b&gt;Cooking method&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="495" y="235" width="120" height="30" as="geometry" />
