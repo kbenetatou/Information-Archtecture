@@ -395,7 +395,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="3816" dy="2420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -842,22 +842,22 @@
           <mxGeometry x="160" y="355" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGGn6EUFKWHY_q-_bmdc-1" value="&lt;b&gt;Allergies / Intolerance&amp;nbsp;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry x="610" y="230" width="220" height="40" as="geometry" />
+          <mxGeometry x="630" y="230" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KGGn6EUFKWHY_q-_bmdc-2" value="Nut free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;fontSize=18;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry x="665" y="275" width="110" height="30" as="geometry" />
+          <mxGeometry x="685" y="275" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGGn6EUFKWHY_q-_bmdc-3" value="Diary free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;fontSize=18;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry x="665" y="325" width="110" height="30" as="geometry" />
+          <mxGeometry x="685" y="325" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGGn6EUFKWHY_q-_bmdc-4" value="Gluten free&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;fontSize=18;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry x="665" y="375" width="110" height="30" as="geometry" />
+          <mxGeometry x="685" y="375" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGGn6EUFKWHY_q-_bmdc-5" value="Soy free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;fontSize=18;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry x="665" y="425" width="110" height="30" as="geometry" />
+          <mxGeometry x="685" y="425" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KGGn6EUFKWHY_q-_bmdc-6" value="Fish free" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;dashed=1;align=center;fontSize=18;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
-          <mxGeometry x="665" y="475" width="110" height="30" as="geometry" />
+          <mxGeometry x="685" y="475" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="UmCv5x-CEF8rxxbTKIyS-1" value="&lt;b&gt;Cooking method&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" parent="BE7XYD_fzrqthYWHUcCX-1" vertex="1">
           <mxGeometry x="470" y="230" width="170" height="40" as="geometry" />
