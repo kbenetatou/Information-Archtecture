@@ -395,12 +395,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="867" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LfXhhraeiLGiQlUluwER-2" value="Home" style="html=1;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="1952.5" y="40" width="110" height="50" as="geometry" />
+          <mxGeometry x="1953.13" y="40" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LfXhhraeiLGiQlUluwER-3" value="Recipes" style="html=1;whiteSpace=wrap;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="1340" y="150" width="110" height="50" as="geometry" />
@@ -703,12 +703,12 @@
             <mxPoint x="1985" y="299.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1jZ5EXJbjpcVy_xMVcnm-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=20;" parent="1" target="LfXhhraeiLGiQlUluwER-2" edge="1">
+        <mxCell id="1jZ5EXJbjpcVy_xMVcnm-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0.427;entryY=0.996;entryDx=0;entryDy=0;fontSize=20;entryPerimeter=0;" parent="1" target="LfXhhraeiLGiQlUluwER-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1845" y="130" as="sourcePoint" />
             <mxPoint x="1650" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="2010" y="130" />
+              <mxPoint x="2000" y="130" />
             </Array>
           </mxGeometry>
         </mxCell>
