@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="2">
   <diagram name="Copy of domain" id="3Sp2jgXLUWvpG2HZxSBy">
-    <mxGraphModel dx="2775" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="1F0GdTbv5qJZqQVcmy5M-0" />
         <mxCell id="1F0GdTbv5qJZqQVcmy5M-1" parent="1F0GdTbv5qJZqQVcmy5M-0" />
@@ -546,7 +546,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="g240z2oYEq4_C--9rGkH" name="site map">
-    <mxGraphModel dx="1830" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+    <mxGraphModel dx="2645" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -791,39 +791,6 @@
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-112" value="Mindful eating" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2312.5" y="1620" width="137.5" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-122" value="" style="endArrow=none;html=1;rounded=0;entryX=0.328;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=20;" parent="1" target="tX5MuTdD_eDaAt5PgCKJ-112" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2358" y="1850" as="sourcePoint" />
-            <mxPoint x="2355.33" y="1702.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-123" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;fontSize=20;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2357.5" y="1732.2" as="sourcePoint" />
-            <mxPoint x="2397.5" y="1732.2" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-124" value="What is mindful eating?" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2402.5" y="1712.43" width="147.5" height="52.5" as="geometry" />
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-125" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;fontSize=20;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2355" y="1792.3600000000001" as="sourcePoint" />
-            <mxPoint x="2395" y="1792.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-126" value="How it helps" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2397.5" y="1775" width="152.5" height="45" as="geometry" />
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-127" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;fontSize=20;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2355" y="1852.3600000000001" as="sourcePoint" />
-            <mxPoint x="2395" y="1852.3600000000001" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tX5MuTdD_eDaAt5PgCKJ-128" value="How to practice it" style="html=1;whiteSpace=wrap;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="2397.5" y="1840" width="152.5" height="42.5" as="geometry" />
         </mxCell>
         <mxCell id="tX5MuTdD_eDaAt5PgCKJ-129" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=1;fontSize=20;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
